@@ -1,2 +1,2 @@
 # nft
-NFT Landing Page
+NFT Landing Page using React and Bootstrap. 
